@@ -1,0 +1,31 @@
+@model IEnumerable<SesliKitapWeb.Models.Category>
+
+@{
+    ViewData["Title"] = "Kategoriler";
+}
+
+<div class="container mt-4">
+    <h1>@ViewData["Title"]</h1>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var category in Model)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">@category.Name</h5>
+                        <p class="card-text">@category.Description</p>
+                        <p class="card-text">
+                            <small class="text-muted">
+                                @(category.Books?.Count ?? 0) kitap
+                            </small>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a asp-action="BooksByCategory" asp-route-id="@category.Id" class="btn btn-primary">Kitapları Gör</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div> 

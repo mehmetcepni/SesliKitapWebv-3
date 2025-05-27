@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SesliKitapWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SesliKitapWeb.vcy4di37xx.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\043d2d5d-9c87-4d50-8e0a-0d170745cd89.jpg",
+      "PackagePath": "staticwebassets\\uploads\\043d2d5d-9c87-4d50-8e0a-0d170745cd89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\0dd64c94-55cb-40ba-8162-c78923fabfaa.png",
+      "PackagePath": "staticwebassets\\uploads\\0dd64c94-55cb-40ba-8162-c78923fabfaa.png"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\18f3d5d9-d6b8-40de-af14-96cbdbd8d720.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18f3d5d9-d6b8-40de-af14-96cbdbd8d720.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\1991e7bf-d698-4b37-b61c-b319d2981ce0.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\1991e7bf-d698-4b37-b61c-b319d2981ce0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\1a86c142-2102-4686-9390-7117c4642cf9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1a86c142-2102-4686-9390-7117c4642cf9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\285f1a91-5fe9-4c49-8a07-fa3fb8250c3c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\285f1a91-5fe9-4c49-8a07-fa3fb8250c3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\30e32e0a-5d38-4d37-8c35-30551e6918f8.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\30e32e0a-5d38-4d37-8c35-30551e6918f8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\433ffcff-9b7c-4f85-90d9-4bf9d3f0a20f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\433ffcff-9b7c-4f85-90d9-4bf9d3f0a20f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\5564ff00-ba79-483f-8bf3-c25bd6ae9762.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5564ff00-ba79-483f-8bf3-c25bd6ae9762.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\672480b0-871e-4c90-9763-58d99bcf2c76.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\672480b0-871e-4c90-9763-58d99bcf2c76.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\771bd44d-f82c-4460-89df-21a64737068a.webp",
+      "PackagePath": "staticwebassets\\uploads\\771bd44d-f82c-4460-89df-21a64737068a.webp"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\80f33d27-ca0f-495b-b467-d36433d33e94.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80f33d27-ca0f-495b-b467-d36433d33e94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\89762613-a478-41a7-aeaf-3f766bd48f27.jpg",
+      "PackagePath": "staticwebassets\\uploads\\89762613-a478-41a7-aeaf-3f766bd48f27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\8f14b58a-781b-4ee6-8c75-37f09f75732d.webp",
+      "PackagePath": "staticwebassets\\uploads\\8f14b58a-781b-4ee6-8c75-37f09f75732d.webp"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\9976d68e-c885-4634-8b8c-d69ff0da7e3c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9976d68e-c885-4634-8b8c-d69ff0da7e3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\9c97db7d-cd98-49ec-9b53-a083f2dae693.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\9c97db7d-cd98-49ec-9b53-a083f2dae693.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\bdc55d77-17b9-445e-8b5a-08b5b9a2628b.webp",
+      "PackagePath": "staticwebassets\\uploads\\bdc55d77-17b9-445e-8b5a-08b5b9a2628b.webp"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\bf99d559-b895-4589-a93d-4fc0a6bdddf4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bf99d559-b895-4589-a93d-4fc0a6bdddf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\c0933482-d9d8-4cbe-a81e-734c47d452e8.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c0933482-d9d8-4cbe-a81e-734c47d452e8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\d17901c6-c1d2-48a5-a81e-6f41e38bebb2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d17901c6-c1d2-48a5-a81e-6f41e38bebb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\e007f843-ac15-4568-af91-3005ebff20fb.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e007f843-ac15-4568-af91-3005ebff20fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\projectss\\c# web\\SesliKitapWebv-3-master\\wwwroot\\uploads\\f2510e60-f675-479d-ab0b-ea2c505b0a33.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\f2510e60-f675-479d-ab0b-ea2c505b0a33.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SesliKitapWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SesliKitapWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SesliKitapWeb.props",
+      "PackagePath": "build\\SesliKitapWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SesliKitapWeb.props",
+      "PackagePath": "buildMultiTargeting\\SesliKitapWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SesliKitapWeb.props",
+      "PackagePath": "buildTransitive\\SesliKitapWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

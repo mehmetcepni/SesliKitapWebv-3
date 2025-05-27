@@ -1,0 +1,67 @@
+@model List<SesliKitapWeb.Models.BookRecommendation>
+
+@{
+    ViewData["Title"] = "Size Özel Öneriler";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Size Özel Öneriler</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            Henüz size özel öneri bulunmamaktadır. Kitapları okudukça önerileriniz güncellenecektir.
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var recommendation in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <img src="@recommendation.Book.CoverImageUrl" class="card-img-top" alt="@recommendation.Book.Title">
+                        <div class="card-body">
+                            <h5 class="card-title">@recommendation.Book.Title</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">@recommendation.Book.Author</h6>
+                            <p class="card-text">
+                                <span class="badge bg-primary">@recommendation.Book.Category</span>
+                                <span class="badge bg-info">Benzerlik: @(recommendation.RelevanceScore * 100)%</span>
+                            </p>
+                            <p class="card-text">@recommendation.Book.Description</p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="@Url.Action("Details", "Books", new { id = recommendation.BookId })" 
+                               class="btn btn-primary">
+                                <i class="bi bi-book"></i> Detayları Gör
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@section Styles {
+    <style>
+        .card {
+            transition: transform 0.2s;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .badge {
+            margin-right: 5px;
+        }
+    </style>
+} 

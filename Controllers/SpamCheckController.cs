@@ -1,0 +1,1 @@
+// Bu dosya (SpamCheckController.cs) artık kullanılmıyor ve Hugging Face tabanlı NLP kontrolüne geçildiği için silindi.

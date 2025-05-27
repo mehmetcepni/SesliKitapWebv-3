@@ -1,0 +1,61 @@
+﻿@model IEnumerable<SesliKitapWeb.Models.Book>
+
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="text-center mb-5">
+                <h1 class="display-4">Sesli Kitap Dünyasına Hoş Geldiniz</h1>
+                <p class="lead">Binlerce kitabı sesli olarak dinleyin, favorilerinizi kaydedin ve okuma deneyiminizi paylaşın.</p>
+                @if (!User.Identity?.IsAuthenticated == true)
+                {
+                    <div class="mt-4">
+                        <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-primary">
+                            <i class="bi bi-person-plus"></i> Üye Ol
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <h2 class="mb-4">Son Eklenen Kitaplar</h2>
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                @foreach (var book in ViewBag.RecentBooks)
+                {
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="@book.CoverImageUrl" class="card-img-top" alt="@book.Title">
+                            <div class="card-body">
+                                <h5 class="card-title">@book.Title</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">@book.Author</h6>
+                                <p class="card-text">@book.Description</p>
+                                <p class="card-text"><small class="text-muted">Kategori: @(book.Category != null ? book.Category.Name : "Kategori Yok")</small></p>
+                            </div>
+                            <div class="card-footer bg-transparent border-0">
+                                <a asp-controller="Books" asp-action="Details" asp-route-id="@book.Id" class="btn btn-details">
+                                    <i class="bi bi-book"></i> Detaylar
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function(){
+            $('.carousel').carousel({
+                interval: 5000
+            });
+        });
+    </script>
+}
